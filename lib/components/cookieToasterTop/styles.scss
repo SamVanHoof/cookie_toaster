@@ -1,3 +1,15 @@
+.pop-over-show.pop-over-effect .cookie-toaster-top {
+  transition: all 1s;
+  opacity: 1;
+  margin-top: 0;
+}
+
+.pop-over-effect .cookie-toaster-top {
+  transition: all 1s;
+  opacity: 0;
+  margin-top: -500px;
+}
+
 .cookie-toaster-top {
   width: 100%;
   position: absolute;
@@ -14,18 +26,6 @@
 
 .cookie-container {
   padding: 25px;
-}
-
-.pop-over-show.pop-over-effect .cookie-toaster-top {
-  transition: all 1s;
-  opacity: 1;
-  margin-top: 0;
-}
-
-.pop-over-effect .cookie-toaster-top {
-  transition: all 1s;
-  opacity: 0;
-  margin-top: -500px;
 }
 
 button {
