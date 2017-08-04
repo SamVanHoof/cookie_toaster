@@ -9,6 +9,9 @@
   .cookie-toaster-top.hidden {
     display: none; }
 
+.cookie-container {
+  padding: 25px; }
+
 .pop-over-show.pop-over-effect .cookie-toaster-top {
   transition: all 1s;
   opacity: 1;

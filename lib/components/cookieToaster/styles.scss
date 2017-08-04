@@ -2,7 +2,6 @@
   width: 100%;
   position: absolute;
   bottom: 0px;
-  padding: 25px;
   background-color: rgba(255, 255, 255, 0.7);
   margin-bottom: -500px;
   opacity: 0;
@@ -10,6 +9,10 @@
   &.hidden {
     display: none;
   }
+}
+
+.cookie-container {
+  padding: 25px;
 }
 
 .pop-over-show.pop-over-effect .cookie-toaster {
