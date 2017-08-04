@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "name": "CookieToasterTop",
+  "main": "./CookieToasterTop.js"
+}
