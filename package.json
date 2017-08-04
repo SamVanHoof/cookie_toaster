@@ -1,6 +1,6 @@
 {
   "name": "cookie_toaster",
-  "version": "0.1.0",
+  "version": "0.2.4",
   "main": "lib/index.js",
   "dependencies": {
     "autoprefixer": "7.1.1",
