@@ -14,7 +14,7 @@ import {CookieToaster} from 'cookie_toaster'
 ...
 ```
 
-To modify the css tou can use the following structure:
+To modify the css you can use the following structure:
 ```scss
 .cookie-toaster { // or cookie-toaster-modal, cookie-toaster-top
    // topmost div
