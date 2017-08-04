@@ -26,4 +26,4 @@ import {CookieToaster} from 'cookie_toaster'
 - accept: function, callback to handle accept
 - decline: function, callback to handle decline
 
-- popped: Boolean, set this property in yoy localstorage to track if cookie has been shown
+- popped: Boolean, set this property in your localstorage to track if cookie has been shown for the user
