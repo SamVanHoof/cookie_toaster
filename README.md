@@ -1,3 +1,5 @@
+Makes tasty cookies.
+
 ## installation
 ```sh
 yarn add cookie_toaster
