@@ -1,10 +1,11 @@
 .cookie-toaster-modal {
   width: 40%;
   position: absolute;
-  top: 30%;
+  top: 28%;
   padding: 25px;
   background-color: rgba(255, 255, 255, 0.7);
-  opacity: 0; }
+  opacity: 0;
+  margin: 0 auto; }
   .cookie-toaster-modal.hidden {
     display: none; }
 
