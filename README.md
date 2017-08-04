@@ -12,18 +12,18 @@ import {CookieToaster} from 'cookie_toaster'
 ```
 
 ## components
-CookieToaster
-CookieToasterTop
-CookieToasterModal
+- CookieToaster
+- CookieToasterTop
+- CookieToasterModal
 
 ## props
-title: String, title (duh)
-text: String, content
+- title: String, title (duh)
+- text: String, content
 
-btnAcceptText: String, button label
-btnDeclineText: String, button label
+- btnAcceptText: String, button label
+- btnDeclineText: String, button label
 
-accept: function, callback to handle accept
-decline: function, callback to handle decline
+- accept: function, callback to handle accept
+- decline: function, callback to handle decline
 
-popped: Boolean, set this property in yoy localstorage to track if cookie has been shown
+- popped: Boolean, set this property in yoy localstorage to track if cookie has been shown
