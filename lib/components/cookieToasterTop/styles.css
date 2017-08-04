@@ -12,18 +12,15 @@
   width: 100%;
   position: absolute;
   top: 0;
-  padding: 25px;
   background-color: rgba(255, 255, 255, 0.7);
   margin-top: -500px;
   opacity: 0; }
   .cookie-toaster-top.hidden {
     display: none; }
-
-.cookie-container {
-  padding: 25px; }
-
-button {
-  padding: 5px 1px;
-  margin: 25px 10px; }
+  .cookie-toaster-top .cookie-container {
+    padding: 25px; }
+  .cookie-toaster-top button {
+    padding: 5px 1px;
+    margin: 25px 10px; }
 
 /*# sourceMappingURL=styles.css.map */
