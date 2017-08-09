@@ -1,4 +1,4 @@
-Makes tasty cookies.
+Makes tasty cookies for React.
 
 ## installation
 ```sh
@@ -20,18 +20,22 @@ To modify the css you can use the following structure:
    // topmost div
   .cookie-container {
     // inner content
-  }
 
-  h1{
-    //title
-  }
+    h1{
+      // title css
+    }
 
-  p{
-    //text
-  }
+    p{
+      // text css
+    }
 
-  button {
-    // button css
+    a{
+      // link css
+    }
+
+    button {
+      // button css
+    }
   }
 }
 ```
@@ -49,6 +53,5 @@ To modify the css you can use the following structure:
 - accept: function, callback to handle accept
 - decline: function, callback to handle decline
 - popped: Boolean, set this property in your localstorage to track if cookie has been shown for the user
-
-## roadmap
-- add support for readme link
+- linkUrl: String, a url
+- linkText: String, the text to display for the link
